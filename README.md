@@ -1,6 +1,6 @@
 ## Meu nome é alvaro
 
-## Estou estudando na Alura
+## Estou estudando na [Alura](https://alura.com/).
 ## Estou me desenvolvendo na linguagem JavaScript
 ## Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
 
